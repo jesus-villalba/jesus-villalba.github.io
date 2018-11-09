@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unsupervised Adaptation of SPLDA</title>
+      <link>https://jesus-villalba.github.io/publication/villalba2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian SPLDA</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-bsplda/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-bsplda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLDA with Two Sources of Inter-session Variability</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-plda2siv/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-plda2siv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayes Factor Analysis for i-Vector Extraction</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-vbfa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-vbfa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

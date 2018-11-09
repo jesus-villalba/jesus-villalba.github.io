@@ -283,6 +283,15 @@
     </item>
     
     <item>
+      <title>Unsupervised Adaptation of SPLDA</title>
+      <link>https://jesus-villalba.github.io/publication/villalba2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The BLZ Submission to the NIST 2011 LRE: Data Collection, System Development and Performance</title>
       <link>https://jesus-villalba.github.io/publication/rodriguezfuentes-blz/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 -0400</pubDate>
@@ -301,11 +310,38 @@
     </item>
     
     <item>
+      <title>Bayesian SPLDA</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-bsplda/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-bsplda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Two-Covariance Model for Speaker Recognition: A Comparative between Integrating Out the Speakers Mean, Between-Speaker and Within-Speaker Covariances</title>
       <link>https://jesus-villalba.github.io/publication/villalba-jrbp12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
       
       <guid>https://jesus-villalba.github.io/publication/villalba-jrbp12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLDA with Two Sources of Inter-session Variability</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-plda2siv/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-plda2siv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayes Factor Analysis for i-Vector Extraction</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-vbfa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-vbfa/</guid>
       <description></description>
     </item>
     

@@ -770,6 +770,27 @@
   },
   {
     "authors": [
+      "Jesús Villalba"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1357016400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1357016400,
+    "objectID": "9626f64fcfea07c147b6d1f07773e044",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba2013/",
+    "publishdate": "2013-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/villalba2013/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "Unsupervised Adaptation of SPLDA",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Luis Javier Rodríguez-Fuentes",
       "Mikel Penagarikano",
       "Amparo Varona",
@@ -820,6 +841,27 @@
   },
   {
     "authors": [
+      "Jesús Villalba"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1325394000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1325394000,
+    "objectID": "ea291d9ee8b0142ceb594908ed125483",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba-bsplda/",
+    "publishdate": "2012-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/villalba-bsplda/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "Bayesian SPLDA",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Jesús Villalba",
       "Eduardo Lleida"
     ],
@@ -838,6 +880,48 @@
     "summary": "",
     "tags": null,
     "title": "Bayesian Two-Covariance Model for Speaker Recognition: A Comparative between Integrating Out the Speakers Mean, Between-Speaker and Within-Speaker Covariances",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Jesús Villalba"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1325394000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1325394000,
+    "objectID": "456914fb8d3ab8eb17c5b613bb341073",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba-plda2siv/",
+    "publishdate": "2012-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/villalba-plda2siv/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "PLDA with Two Sources of Inter-session Variability",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Jesús Villalba"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1325394000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1325394000,
+    "objectID": "665b3df15b0a5ff9b458967f39cd5602",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba-vbfa/",
+    "publishdate": "2012-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/villalba-vbfa/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "Variational Bayes Factor Analysis for i-Vector Extraction",
     "type": "publication"
   },
   {
