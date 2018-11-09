@@ -1,1 +1,84 @@
-[]
+[
+  {
+    "authors": [
+      "Laureano Moro-Velázquez",
+      "Jorge Andrés Gómez-García",
+      "Juan Ignacio Godino-Llorente",
+      "Jesús Villalba",
+      "Juan Rafael Orozco-Arroyave",
+      "Najim Dehak"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1514782800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514782800,
+    "objectID": "3bc5b963023b621cb95882723341b902",
+    "permalink": "https://jesus-villalba.github.io/publication/moro-velazquez2018/",
+    "publishdate": "2018-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/moro-velazquez2018/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson's Disease",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Jesús Villalba",
+      "Alfonso Ortega",
+      "Antonio Miguel",
+      "Eduardo Lleida"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1459483200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1459483200,
+    "objectID": "8f87fd0b1957b339ac0f041a25bc6e4d",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba-qm16/",
+    "publishdate": "2016-04-01T00:00:00-04:00",
+    "relpermalink": "/publication/villalba-qm16/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "bayesian network",
+      "confidence",
+      "quality measures",
+      "reliability",
+      "robustness",
+      "speaker verification",
+      "vector taylor series"
+    ],
+    "title": "Analysis of speech quality measures for the task of estimating the reliability of speaker verification decisions",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Jesús Villalba",
+      "Antonio Miguel",
+      "Alfonso Ortega",
+      "Eduardo Lleida"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1451624400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1451624400,
+    "objectID": "bdc84be1555c0b20cf546c6194998005",
+    "permalink": "https://jesus-villalba.github.io/publication/villalba-rel16/",
+    "publishdate": "2016-01-01T00:00:00-05:00",
+    "relpermalink": "/publication/villalba-rel16/",
+    "section": "publication",
+    "summary": "",
+    "tags": null,
+    "title": "Bayesian Networks to Model the Variability of Speaker Verification Scores in Adverse Environments",
+    "type": "publication"
+  }
+]

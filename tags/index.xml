@@ -11,5 +11,68 @@
 	<atom:link href="https://jesus-villalba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>bayesian network</title>
+      <link>https://jesus-villalba.github.io/tags/bayesian-network/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confidence</title>
+      <link>https://jesus-villalba.github.io/tags/confidence/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/confidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quality measures</title>
+      <link>https://jesus-villalba.github.io/tags/quality-measures/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/quality-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reliability</title>
+      <link>https://jesus-villalba.github.io/tags/reliability/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness</title>
+      <link>https://jesus-villalba.github.io/tags/robustness/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker verification</title>
+      <link>https://jesus-villalba.github.io/tags/speaker-verification/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/speaker-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vector taylor series</title>
+      <link>https://jesus-villalba.github.io/tags/vector-taylor-series/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/vector-taylor-series/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

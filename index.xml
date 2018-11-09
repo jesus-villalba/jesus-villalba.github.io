@@ -10,5 +10,32 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson&#39;s Disease</title>
+      <link>https://jesus-villalba.github.io/publication/moro-velazquez2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-velazquez2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of speech quality measures for the task of estimating the reliability of speaker verification decisions</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-qm16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-qm16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Networks to Model the Variability of Speaker Verification Scores in Adverse Environments</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-rel16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-rel16/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

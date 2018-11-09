@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://jesus-villalba.github.io/publication/moro-velazquez2018/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jesus-villalba.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -28,6 +36,31 @@
     
     <url>
     
+      <loc>https://jesus-villalba.github.io/publication/villalba-qm16/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/publication/villalba-rel16/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/publication_types/2/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jesus-villalba.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -46,6 +79,7 @@
     <url>
     
       <loc>https://jesus-villalba.github.io/publication_types/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,6 +88,69 @@
     <url>
     
       <loc>https://jesus-villalba.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/bayesian-network/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/confidence/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/quality-measures/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/reliability/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/robustness/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/speaker-verification/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/tags/vector-taylor-series/</loc>
+      <lastmod>2016-04-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
