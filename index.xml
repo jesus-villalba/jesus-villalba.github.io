@@ -11,6 +11,105 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Investigation of Non-linear i-vectors for speaker verification</title>
+      <link>https://jesus-villalba.github.io/publication/chen-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/chen-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Emotion Recognition combining audio and transcripts</title>
+      <link>https://jesus-villalba.github.io/publication/cho-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/cho-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge</title>
+      <link>https://jesus-villalba.github.io/publication/sell-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/sell-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Single-Channel BLSTM Enhancement for Language Identification</title>
+      <link>https://jesus-villalba.github.io/publication/frederiksen-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/frederiksen-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Deep Neural Network Age Estimation</title>
+      <link>https://jesus-villalba.github.io/publication/ghahremani-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/ghahremani-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation on Bandwidth Extension for Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/nidadavolu-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/nidadavolu-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End versus Embedding Neural Networks for Language Recognition in Mismatched Conditions</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-od18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-od18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT Lincoln Laboratory / JHU / EPITA-LSE LRE17 System</title>
+      <link>https://jesus-villalba.github.io/publication/richardson18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/richardson18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Verification-Identification in End-to-end Multi-scale CNN Framework for Topic Identification</title>
+      <link>https://jesus-villalba.github.io/publication/pappagari_icassp18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/pappagari_icassp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Uncertainty in Deep Regressin Models: The Case of Age Estimation from Speech</title>
+      <link>https://jesus-villalba.github.io/publication/chen-icassp18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/chen-icassp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A forced gaussians based methodology for the differential evaluation of Parkinson&#39;s Disease by means of speech processing</title>
+      <link>https://jesus-villalba.github.io/publication/moro-velazquez2019/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-velazquez2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson&#39;s Disease</title>
       <link>https://jesus-villalba.github.io/publication/moro-velazquez2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
@@ -20,20 +119,29 @@
     </item>
     
     <item>
-      <title>Analysis of speech quality measures for the task of estimating the reliability of speaker verification decisions</title>
-      <link>https://jesus-villalba.github.io/publication/villalba-qm16/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Use of Acoustic Landmarks and GMM-UBM Blend in the Automatic Detection of Parkinson&#39;s Disease</title>
+      <link>https://jesus-villalba.github.io/publication/moro-maveva17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://jesus-villalba.github.io/publication/villalba-qm16/</guid>
+      <guid>https://jesus-villalba.github.io/publication/moro-maveva17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Networks to Model the Variability of Speaker Verification Scores in Adverse Environments</title>
-      <link>https://jesus-villalba.github.io/publication/villalba-rel16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <title>Tied Variational Autoencoder Backends for i-Vector Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jesus-villalba.github.io/publication/villalba-rel16/</guid>
+      <guid>https://jesus-villalba.github.io/publication/villalba-is17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottleneck Based Front-end for Diarization Systems</title>
+      <link>https://jesus-villalba.github.io/publication/vinals-ib16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/vinals-ib16/</guid>
       <description></description>
     </item>
     

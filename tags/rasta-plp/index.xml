@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rasta-plp on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/tags/rasta-plp/</link>
+    <description>Recent content in rasta-plp on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/tags/rasta-plp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use of Acoustic Landmarks and GMM-UBM Blend in the Automatic Detection of Parkinson&#39;s Disease</title>
+      <link>https://jesus-villalba.github.io/publication/moro-maveva17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-maveva17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

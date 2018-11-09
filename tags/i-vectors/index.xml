@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>i-vectors on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/tags/i-vectors/</link>
+    <description>Recent content in i-vectors on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Aug 2011 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/tags/i-vectors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards Fully Bayesian Speaker Recognition: Integrating Out the Between-Speaker Covariance</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-bay2cov-is2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-bay2cov-is2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

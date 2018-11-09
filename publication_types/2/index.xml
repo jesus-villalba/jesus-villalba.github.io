@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A forced gaussians based methodology for the differential evaluation of Parkinson&#39;s Disease by means of speech processing</title>
+      <link>https://jesus-villalba.github.io/publication/moro-velazquez2019/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-velazquez2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of speaker recognition methodologies and the influence of kinetic changes to automatically detect Parkinson&#39;s Disease</title>
+      <link>https://jesus-villalba.github.io/publication/moro-velazquez2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-velazquez2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of speech quality measures for the task of estimating the reliability of speaker verification decisions</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-qm16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-qm16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Networks to Model the Variability of Speaker Verification Scores in Adverse Environments</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-rel16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-rel16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker Verification on Summed Channel Conditions with Confidence Measures</title>
+      <link>https://jesus-villalba.github.io/publication/cvaquero-svsummed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/cvaquero-svsummed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

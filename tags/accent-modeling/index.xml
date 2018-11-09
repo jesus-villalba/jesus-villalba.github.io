@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accent modeling on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/tags/accent-modeling/</link>
+    <description>Recent content in accent modeling on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/tags/accent-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accent Modeling for Language Identification</title>
+      <link>https://jesus-villalba.github.io/publication/martinez-ibspeech14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/martinez-ibspeech14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

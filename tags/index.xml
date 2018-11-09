@@ -7,9 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jesus-villalba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bottlenecks</title>
+      <link>https://jesus-villalba.github.io/tags/bottlenecks/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/bottlenecks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep neural networks</title>
+      <link>https://jesus-villalba.github.io/tags/deep-neural-networks/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diarization</title>
+      <link>https://jesus-villalba.github.io/tags/diarization/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/diarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index Terms</title>
+      <link>https://jesus-villalba.github.io/tags/index-terms/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/index-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accent modeling</title>
+      <link>https://jesus-villalba.github.io/tags/accent-modeling/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/accent-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acoustic landmarks</title>
+      <link>https://jesus-villalba.github.io/tags/acoustic-landmarks/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/acoustic-landmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agglomerative hierarchical clustering</title>
+      <link>https://jesus-villalba.github.io/tags/agglomerative-hierarchical-clustering/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/agglomerative-hierarchical-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and paste</title>
+      <link>https://jesus-villalba.github.io/tags/and-paste/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/and-paste/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bayesian network</title>
@@ -17,6 +90,15 @@
       <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jesus-villalba.github.io/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bottlenecks</title>
+      <link>https://jesus-villalba.github.io/tags/bottlenecks/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/bottlenecks/</guid>
       <description></description>
     </item>
     
@@ -30,11 +112,119 @@
     </item>
     
     <item>
+      <title>cut</title>
+      <link>https://jesus-villalba.github.io/tags/cut/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/cut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep neural networks</title>
+      <link>https://jesus-villalba.github.io/tags/deep-neural-networks/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diarization</title>
+      <link>https://jesus-villalba.github.io/tags/diarization/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/diarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>far-field</title>
+      <link>https://jesus-villalba.github.io/tags/far-field/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/far-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forgery</title>
+      <link>https://jesus-villalba.github.io/tags/forgery/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/forgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gmm -ubm</title>
+      <link>https://jesus-villalba.github.io/tags/gmm-ubm/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/gmm-ubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i-vectors</title>
+      <link>https://jesus-villalba.github.io/tags/i-vectors/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/i-vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ivector</title>
+      <link>https://jesus-villalba.github.io/tags/ivector/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/ivector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language identification</title>
+      <link>https://jesus-villalba.github.io/tags/language-identification/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/language-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parkinson</title>
+      <link>https://jesus-villalba.github.io/tags/parkinson/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/parkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plda</title>
+      <link>https://jesus-villalba.github.io/tags/plda/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/plda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quality measures</title>
       <link>https://jesus-villalba.github.io/tags/quality-measures/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jesus-villalba.github.io/tags/quality-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rasta-plp</title>
+      <link>https://jesus-villalba.github.io/tags/rasta-plp/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/rasta-plp/</guid>
       <description></description>
     </item>
     
@@ -48,6 +238,15 @@
     </item>
     
     <item>
+      <title>replay attack</title>
+      <link>https://jesus-villalba.github.io/tags/replay-attack/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/replay-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>robustness</title>
       <link>https://jesus-villalba.github.io/tags/robustness/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
@@ -57,11 +256,74 @@
     </item>
     
     <item>
+      <title>s disease</title>
+      <link>https://jesus-villalba.github.io/tags/s-disease/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/s-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker diarization</title>
+      <link>https://jesus-villalba.github.io/tags/speaker-diarization/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/speaker-diarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker recognition</title>
+      <link>https://jesus-villalba.github.io/tags/speaker-recognition/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/speaker-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>speaker verification</title>
       <link>https://jesus-villalba.github.io/tags/speaker-verification/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jesus-villalba.github.io/tags/speaker-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spoofing</title>
+      <link>https://jesus-villalba.github.io/tags/spoofing/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/spoofing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised training</title>
+      <link>https://jesus-villalba.github.io/tags/unsupervised-training/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/unsupervised-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaquero-jrbp</title>
+      <link>https://jesus-villalba.github.io/tags/vaquero-jrbp/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/vaquero-jrbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational Bayes</title>
+      <link>https://jesus-villalba.github.io/tags/variational-bayes/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/variational-bayes/</guid>
       <description></description>
     </item>
     

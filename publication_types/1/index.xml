@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jesus Villalba</title>
+    <link>https://jesus-villalba.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Jesus Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jesus-villalba.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Investigation of Non-linear i-vectors for speaker verification</title>
+      <link>https://jesus-villalba.github.io/publication/chen-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/chen-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Emotion Recognition combining audio and transcripts</title>
+      <link>https://jesus-villalba.github.io/publication/cho-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/cho-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diarization is Hard: Some Experiences and Lessons Learned for the JHU Team in the Inaugural DIHARD Challenge</title>
+      <link>https://jesus-villalba.github.io/publication/sell-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/sell-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Single-Channel BLSTM Enhancement for Language Identification</title>
+      <link>https://jesus-villalba.github.io/publication/frederiksen-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/frederiksen-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Deep Neural Network Age Estimation</title>
+      <link>https://jesus-villalba.github.io/publication/ghahremani-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/ghahremani-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation on Bandwidth Extension for Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/nidadavolu-is18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/nidadavolu-is18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End versus Embedding Neural Networks for Language Recognition in Mismatched Conditions</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-od18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-od18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MIT Lincoln Laboratory / JHU / EPITA-LSE LRE17 System</title>
+      <link>https://jesus-villalba.github.io/publication/richardson18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/richardson18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Verification-Identification in End-to-end Multi-scale CNN Framework for Topic Identification</title>
+      <link>https://jesus-villalba.github.io/publication/pappagari_icassp18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/pappagari_icassp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Uncertainty in Deep Regressin Models: The Case of Age Estimation from Speech</title>
+      <link>https://jesus-villalba.github.io/publication/chen-icassp18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/chen-icassp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of Acoustic Landmarks and GMM-UBM Blend in the Automatic Detection of Parkinson&#39;s Disease</title>
+      <link>https://jesus-villalba.github.io/publication/moro-maveva17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/moro-maveva17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tied Variational Autoencoder Backends for i-Vector Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-is17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottleneck Based Front-end for Diarization Systems</title>
+      <link>https://jesus-villalba.github.io/publication/vinals-ib16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/vinals-ib16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayesian PLDA for Speaker Diarization in the MGB Challenge</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-asru15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-asru15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spoofing Detection with DNN and One-class SVM for the ASVspoof 2015 Challenge</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-is15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accent Modeling for Language Identification</title>
+      <link>https://jesus-villalba.github.io/publication/martinez-ibspeech14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/martinez-ibspeech14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Training of PLDA with Variational Bayes</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-ibspeech14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-ibspeech14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis with Sampling Methods for Text Dependent Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/miguel-is14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/miguel-is14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Adaptation of PLDA by Using Variational Bayes Methods</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-icassp14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-icassp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Bayesian Network to Assess the Reliability of Speaker Verification Decisions</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is13-bnrel/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-is13-bnrel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling Recordings Acquired Simultaneously over Multiple Channels with PLDA</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is13-plda2cht/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-is13-plda2cht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The I3A Speaker Recognition System for NIST SRE12: Post-evaluation Analysis</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-is13-i3a/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-is13-i3a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling i-Vectors from Different Recording Conditions Using Multi-Channel Simplified PLDA in Speaker Recognition</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-icassp13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-icassp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation-by-Classification System Based on Factor Analysis</title>
+      <link>https://jesus-villalba.github.io/publication/dcastan-icassp13-fa/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/dcastan-icassp13-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I3A SRE12 System Description</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-sre12/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-sre12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BLZ Submission to the NIST 2011 LRE: Data Collection, System Development and Performance</title>
+      <link>https://jesus-villalba.github.io/publication/rodriguezfuentes-blz/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/rodriguezfuentes-blz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Adaptation of PLDA Based Speaker Recognition to Domains with Scarce Development Data</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-plda-adapt/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-plda-adapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Two-Covariance Model for Speaker Recognition: A Comparative between Integrating Out the Speakers Mean, Between-Speaker and Within-Speaker Covariances</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-jrbp12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-jrbp12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Bayesian Likelihood Ratios vs i-vector Length Normalization in Speaker Recognition Systems</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-sre11/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-sre11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-site heterogeneous system fusions for the Albayzin 2010 Language Recognition Evaluation</title>
+      <link>https://jesus-villalba.github.io/publication/rodriguez-fuentes2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/rodriguez-fuentes2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Replay Attacks on Speaker Verification Systems</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-replay/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-replay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Audio Segmentation with HMM and Factor Analysis in Broadcast News Domain</title>
+      <link>https://jesus-villalba.github.io/publication/castan-hmmfa/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/castan-hmmfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I3A Language Recognition System for Albayzin 2010 LRE</title>
+      <link>https://jesus-villalba.github.io/publication/martinez-albayzin10/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/martinez-albayzin10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Fully Bayesian Speaker Recognition: Integrating Out the Between-Speaker Covariance</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-bay2cov-is2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-bay2cov-is2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Replay Attacks from Far-Field Recordings on Speaker Verification Systems</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-farfield/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-farfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Feature Techniques Combination for Speaker Recognition in Noisy Environment</title>
+      <link>https://jesus-villalba.github.io/publication/dayana-missingfeature/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/dayana-missingfeature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker Verification Performance Degradation against Spoofing and Tampering Attacks</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-spkvperformance/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-spkvperformance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Measures and Hypothesis Selection Strategies for Speaker Segmentation</title>
+      <link>https://jesus-villalba.github.io/publication/vaquero2010a/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/vaquero2010a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Measures for Speaker Segmentation and their Influence on Speaker Verification</title>
+      <link>https://jesus-villalba.github.io/publication/vaquero2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/vaquero2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I3A NIST SRE2010 System Description</title>
+      <link>https://jesus-villalba.github.io/publication/villalba-sre10/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba-sre10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I3A System for Evalita 2009 Speaker Verification Application Evaluation</title>
+      <link>https://jesus-villalba.github.io/publication/villalba2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiencia del I3A en la Evaluación de Reconocimiento de Locutor NIST 2008</title>
+      <link>https://jesus-villalba.github.io/publication/villalba2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/villalba2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verificación e Identificación de Locutor con Normalización de Vectores de Características en Entornos Acústicos Adversos</title>
+      <link>https://jesus-villalba.github.io/publication/buera2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 -0500</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/buera2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker verification and identification using Phoneme Dependent Multi-Environment Models based LInear Normalization in adverse and dynamic acoustic environments</title>
+      <link>https://jesus-villalba.github.io/publication/buera2005/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/buera2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
