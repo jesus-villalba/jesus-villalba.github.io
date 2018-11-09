@@ -386,7 +386,7 @@
     "publishdate": "2016-11-01T00:00:00-04:00",
     "relpermalink": "/publication/vinals-ib16/",
     "section": "publication",
-    "summary": "textcopyright Springer International Publishing AG 2016. The goal of this paper is to study the inclusion of deep learning into the diarization task. We propose some novel approaches at the feature extraction stage, substituting the classical usage of short-term features, such as MFCCs and PLPs, by Deep Learning based ones. These new features come from the hidden states at bottleneck layers in neural networks. Trained for ASR tasks. These new features will be included in the University of Zaragoza ViVoLAB speaker diarization system, designed for the Multi-Genre Broadcast (MGB) challenge of the 2015 ASRU Workshop. This system, designed following the i-vector paradigm, uses the input features to segment the input audio and construct one i-vector per segment. These i-vectors will be clustered into speakers according to generative PLDA models. The evaluation for our new approach will be carried out with broadcast audio from the 2015 MGB Challenge.",
+    "summary": "The goal of this paper is to study the inclusion of deep learning into the diarization task. We propose some novel approaches at the feature extraction stage, substituting the classical usage of short-term features, such as MFCCs and PLPs, by Deep Learning based ones. These new features come from the hidden states at bottleneck layers in neural networks. Trained for ASR tasks. These new features will be included in the University of Zaragoza ViVoLAB speaker diarization system, designed for the Multi-Genre Broadcast (MGB) challenge of the 2015 ASRU Workshop. This system, designed following the i-vector paradigm, uses the input features to segment the input audio and construct one i-vector per segment. These i-vectors will be clustered into speakers according to generative PLDA models. The evaluation for our new approach will be carried out with broadcast audio from the 2015 MGB Challenge.",
     "tags": [
       "Bottlenecks",
       "Deep neural networks",
@@ -770,30 +770,6 @@
   },
   {
     "authors": [
-      "Jesús Villalba",
-      "Eduardo Lleida",
-      "Alfonso Ortega",
-      "Antonio Miguel"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1354338000,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1354338000,
-    "objectID": "3ffe9509aabe68dd60a2eb1626211ed0",
-    "permalink": "https://jesus-villalba.github.io/publication/villalba-sre12/",
-    "publishdate": "2012-12-01T00:00:00-05:00",
-    "relpermalink": "/publication/villalba-sre12/",
-    "section": "publication",
-    "summary": "",
-    "tags": null,
-    "title": "I3A SRE12 System Description",
-    "type": "publication"
-  },
-  {
-    "authors": [
       "Luis Javier Rodríguez-Fuentes",
       "Mikel Penagarikano",
       "Amparo Varona",
@@ -862,29 +838,6 @@
     "summary": "",
     "tags": null,
     "title": "Bayesian Two-Covariance Model for Speaker Recognition: A Comparative between Integrating Out the Speakers Mean, Between-Speaker and Within-Speaker Covariances",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "Jesús Villalba",
-      "Niko Brummer",
-      "Eduardo Lleida"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1322715600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1322715600,
-    "objectID": "11bddd43125c8f80efe8e5be128a7b42",
-    "permalink": "https://jesus-villalba.github.io/publication/villalba-sre11/",
-    "publishdate": "2011-12-01T00:00:00-05:00",
-    "relpermalink": "/publication/villalba-sre11/",
-    "section": "publication",
-    "summary": "",
-    "tags": null,
-    "title": "Fully Bayesian Likelihood Ratios vs i-vector Length Normalization in Speaker Recognition Systems",
     "type": "publication"
   },
   {
