@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jesus-villalba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptation</title>
+      <link>https://jesus-villalba.github.io/tags/adaptation/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/adaptation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bottlenecks</title>
@@ -18,6 +27,15 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jesus-villalba.github.io/tags/bottlenecks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://jesus-villalba.github.io/tags/clustering/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/tags/clustering/</guid>
       <description></description>
     </item>
     
@@ -33,7 +51,7 @@
     <item>
       <title>Diarization</title>
       <link>https://jesus-villalba.github.io/tags/diarization/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>https://jesus-villalba.github.io/tags/diarization/</guid>
       <description></description>

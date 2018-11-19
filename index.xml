@@ -83,6 +83,15 @@
     </item>
     
     <item>
+      <title>Investigation of Deep Learning Attacks on Nonlinear Silicon Photonic PUFs</title>
+      <link>https://jesus-villalba.github.io/publication/atakhodjaev2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jesus-villalba.github.io/publication/atakhodjaev2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Joint Verification-Identification in End-to-end Multi-scale CNN Framework for Topic Identification</title>
       <link>https://jesus-villalba.github.io/publication/pappagari_icassp18/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
@@ -128,20 +137,11 @@
     </item>
     
     <item>
-      <title>Tied Variational Autoencoder Backends for i-Vector Speaker Recognition</title>
-      <link>https://jesus-villalba.github.io/publication/villalba-is17/</link>
+      <title>Domain Adaptation of PLDA models in Broadcast Diarization by means of Unsupervised Speaker Clustering</title>
+      <link>https://jesus-villalba.github.io/publication/vinals-is17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jesus-villalba.github.io/publication/villalba-is17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bottleneck Based Front-end for Diarization Systems</title>
-      <link>https://jesus-villalba.github.io/publication/vinals-ib16/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jesus-villalba.github.io/publication/vinals-ib16/</guid>
+      <guid>https://jesus-villalba.github.io/publication/vinals-is17/</guid>
       <description></description>
     </item>
     

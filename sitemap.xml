@@ -68,6 +68,14 @@
     
     <url>
     
+      <loc>https://jesus-villalba.github.io/publication/atakhodjaev2018/</loc>
+      <lastmod>2018-05-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jesus-villalba.github.io/publication/pappagari_icassp18/</loc>
       <lastmod>2018-04-01T00:00:00-04:00</lastmod>
     </url>
@@ -102,6 +110,14 @@
     
       <loc>https://jesus-villalba.github.io/publication/moro-maveva17/</loc>
       <lastmod>2017-12-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesus-villalba.github.io/publication/vinals-is17/</loc>
+      <lastmod>2017-08-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -372,14 +388,6 @@
     
     <url>
     
-      <loc>https://jesus-villalba.github.io/publication/cvaquero-svsummed/</loc>
-      <lastmod>2011-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://jesus-villalba.github.io/publication/dayana-missingfeature/</loc>
       <lastmod>2010-11-01T00:00:00-04:00</lastmod>
     </url>
@@ -505,6 +513,15 @@
     
     <url>
     
+      <loc>https://jesus-villalba.github.io/tags/adaptation/</loc>
+      <lastmod>2017-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jesus-villalba.github.io/tags/bottlenecks/</loc>
       <lastmod>2016-11-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -522,6 +539,15 @@
     
     <url>
     
+      <loc>https://jesus-villalba.github.io/tags/clustering/</loc>
+      <lastmod>2017-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jesus-villalba.github.io/tags/deep-neural-networks/</loc>
       <lastmod>2016-11-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -532,7 +558,7 @@
     <url>
     
       <loc>https://jesus-villalba.github.io/tags/diarization/</loc>
-      <lastmod>2016-11-01T00:00:00-04:00</lastmod>
+      <lastmod>2017-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -568,7 +594,7 @@
     <url>
     
       <loc>https://jesus-villalba.github.io/tags/</loc>
-      <lastmod>2016-11-01T00:00:00-04:00</lastmod>
+      <lastmod>2017-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -213,6 +213,35 @@
   },
   {
     "authors": [
+      "Iskandar Atakhodjaev",
+      "Bryan T. Bosworth",
+      "Brian C. Grubel",
+      "Michael R. Kossey",
+      "Jesús Villalba",
+      "A. Brinton Cooper",
+      "Najim Dehak",
+      "Amy C. Foster",
+      "Mark A. Foster"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1525147200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1525147200,
+    "objectID": "a06b3c9bd5decd74bfa86035eb66e9a3",
+    "permalink": "https://jesus-villalba.github.io/publication/atakhodjaev2018/",
+    "publishdate": "2018-05-01T00:00:00-04:00",
+    "relpermalink": "/publication/atakhodjaev2018/",
+    "section": "publication",
+    "summary": "Physical unclonable functions (PUFs) serve as a hardware source of private information that cannot be duplicated and have applications in hardware",
+    "tags": null,
+    "title": "Investigation of Deep Learning Attacks on Nonlinear Silicon Photonic PUFs",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Raghavendra Pappagari",
       "Jesús Villalba",
       "Najim Dehak"
@@ -341,6 +370,35 @@
       "s disease"
     ],
     "title": "Use of Acoustic Landmarks and GMM-UBM Blend in the Automatic Detection of Parkinson's Disease",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Ignacio Viñals",
+      "Alfonso Ortega",
+      "Jesús Villalba",
+      "Antonio Miguel",
+      "Eduardo Lleida"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1501560000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1501560000,
+    "objectID": "cc0708ad044128203423d86dfdf17561",
+    "permalink": "https://jesus-villalba.github.io/publication/vinals-is17/",
+    "publishdate": "2017-08-01T00:00:00-04:00",
+    "relpermalink": "/publication/vinals-is17/",
+    "section": "publication",
+    "summary": "This work presents a new strategy to perform diarization deal-ing with high variability data, such as multimedia information in broadcast. This variability is highly noticeable among do-mains (inter-domain variability among chapters, shows, gen-res, etc.). Therefore, each domain requires its own specific model to obtain the optimal results. We propose to adapt the PLDA models of our diarization system with in-domain unla-beled data. To do it, we estimate pseudo-speaker labels by un-supervised speaker clustering. This new method has been in-cluded in a PLDA-based diarization system and evaluated on the Multi-Genre Broadcast 2015 Challenge data. Given an au-dio, the system computes short-time i-vectors and clusters them using a variational Bayesian PLDA model with hidden labels. The proposed method improves 25.41% relative w.r.t. the sys-tem without PLDA adaptation.",
+    "tags": [
+      "Adaptation",
+      "Clustering",
+      "Diarization"
+    ],
+    "title": "Domain Adaptation of PLDA models in Broadcast Diarization by means of Unsupervised Speaker Clustering",
     "type": "publication"
   },
   {
@@ -1097,30 +1155,6 @@
       "spoofing"
     ],
     "title": "Detecting Replay Attacks from Far-Field Recordings on Speaker Verification Systems",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "Carlos Vaquero",
-      "Jesús Villalba",
-      "Alfonso Ortega",
-      "Eduardo Lleida"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1293858000,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1293858000,
-    "objectID": "19956cb49486583af7da260e31dda98a",
-    "permalink": "https://jesus-villalba.github.io/publication/cvaquero-svsummed/",
-    "publishdate": "2011-01-01T00:00:00-05:00",
-    "relpermalink": "/publication/cvaquero-svsummed/",
-    "section": "publication",
-    "summary": "",
-    "tags": null,
-    "title": "Speaker Verification on Summed Channel Conditions with Confidence Measures",
     "type": "publication"
   },
   {
